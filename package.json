@@ -1,0 +1,20 @@
+{
+  "name": "agtechclient",
+  "version": "1.0.0",
+  "description": "App for publish, subscribe data to bluemix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cloudant": "^1.4.1",
+    "ibmiotf": "0.2.11",
+    "sleep": "^3.0.1"
+  },
+  "keywords": [
+    "bluemix",
+    "mqtt"
+  ],
+  "author": "Cuong Nguyen (vietcuonghn3@gmail.com)",
+  "license": "ISC"
+}
